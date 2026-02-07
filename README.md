@@ -4,7 +4,7 @@ A MTC Branded GPA Calcultor built to help students at **BPDC** manage their acad
 
 ## 🚀 Key Features
 - **BPDC Specific:** Uses the official 10-point scale (A=10, B=8, etc.).
-- [cite_start]**Data Persistence:** Uses a **SQLite database** so your data isn't lost when you refresh the page.
+- **Data Persistence:** Uses a **SQLite database** so your data isn't lost when you refresh the page.
 - **Official Branding:** Designed with the **MTC Black Accent** color palette to match the club's identity.
 
 ## 🧠 How the Code Works
@@ -31,10 +31,10 @@ It performs the math (GPA Calculation)
 - It uses **Conditional Logic** to change the "Status" message based on your current GPA.
 
 ## 🛠️ Tech Stack
-- [cite_start]**Language:** Python 3.11 [cite: 12]
-- [cite_start]**Framework:** Django [cite: 18]
-- [cite_start]**Database:** SQLite 
-- [cite_start]**Tools:** VS Code & Git 
+- **Language:** Python 3.11
+- **Framework:** Django
+- **Database:** SQLite 
+- **Tools:** VS Code & Git 
 
 ## ⚙️ How to Run
 1. Activate your environment: `.\venv\Scripts\activate`
